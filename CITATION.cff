@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the repository and the associated Roman Urdu research paper."
+title: "Roman Urdu Sentiment Classification Baseline"
+type: software
+authors:
+  - family-names: "Habiba"
+    given-names: "Rabia"
+version: 0.1.0
+date-released: 2026-10-29
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Technique to Calculate National Happiness Index by Analyzing Roman Urdu Messages Posted on Social Media"
+  authors:
+    - family-names: "Habiba"
+      given-names: "Rabia"
+    - family-names: "Awais"
+      given-names: "Muhammad"
+    - family-names: "Shoaib"
+      given-names: "Muhammad"
+  journal: "ACM Transactions on Asian and Low-Resource Language Information Processing"
+  volume: 19
+  issue: 6
+  year: 2020
+  doi: "10.1145/3400712"
