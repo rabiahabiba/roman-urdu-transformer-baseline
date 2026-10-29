@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+
+# Private/local datasets: keep only documentation
+data/*
+!data/README.md
+
+# Generated outputs and checkpoints
+outputs/
+outputs_*/
+checkpoints/
+wandb/
+*.joblib
+*.pt
+*.bin
+*.safetensors
